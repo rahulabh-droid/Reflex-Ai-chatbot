@@ -32,8 +32,8 @@ Built a multi-model AI chatbot that supports both cloud and local LLMs using Gem
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rahulabh-droid/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rahulabh-droid/Reflex-Ai-chatbot
+cd Reflex-AI-chatbot
 ```
 
 ### 2. Create Virtual Environment

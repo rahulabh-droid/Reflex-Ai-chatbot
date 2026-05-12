@@ -22,3 +22,7 @@ Tech Stack:
 - Streamlit
 - Ollama
 - Google Generative AI
+
+## What AI System Did I Build?
+
+Built a multi-model AI chatbot that supports both cloud and local LLMs using Gemini API and Ollama. The system allows users to switch between models, maintain session-based chat memory, and interact through a modern Streamlit interface. Designed to demonstrate practical LLM integration, API handling, and local AI deployment workflows.
